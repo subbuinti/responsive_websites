@@ -1,0 +1,50 @@
+.independence_bg_container{
+    background-image: linear-gradient(To bottom, orange,white,green);
+    height:100vh;
+}
+
+.heading{
+    font-family: "roboto";
+    font-size:40px;
+    font-weight: 800;
+    color:#ffffff;
+   text-align: center;
+    margin-top: 20px;
+}
+.main_container{
+    background-image: url("https://image.freepik.com/free-vector/map-india-with-tricolor_1017-1592.jpg");
+    height:100px;
+    width:100px;
+    background-size: cover;
+}
+.img_container{
+    border-radius: 1000px;
+    width: 40vw;
+    height:20vh;
+}
+.color-orange{
+    color: orange;
+    font-weight: 800;
+}
+.color-green{
+    color: green;
+    font-weight: 800;
+}
+.color-white{
+    color: blue;
+    font-weight: 800;
+}
+.sub-heading{
+    font-family: "roboto";
+    font-size:30px;
+   text-align: center;
+    color:#132a31;
+    padding:13px;
+    margin-left: 20px;
+}
+.bottom-head{
+    font-family: "roboto";
+    font-size:12px;
+   
+    color:#ffffff;
+}
